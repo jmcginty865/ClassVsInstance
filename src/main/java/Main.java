@@ -3,7 +3,7 @@
  */
 public class Main {
     public static void main(String[] args){
-        Person bob = new Person(7,2);
+        Person bob = new Person(8,9);
         Display.printInt(bob.getAge());
         bob.setAge(44);
         Display.printInt(bob.getAge());
